@@ -1,7 +1,7 @@
 from math import sqrt
 
 '''
-cryptographie linéaire
+linear cryptography
 '''
 
 
