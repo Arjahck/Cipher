@@ -1,3 +1,5 @@
+programmed : 02/2020
+
 # Cipher
 Small Python program to cipher with a graphical interface using tkinter
 
