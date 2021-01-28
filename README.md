@@ -6,5 +6,5 @@ include the code for the graphical interface
 
 ![alt text](https://i.imgur.com/sa6EaKS.png)
 
-#### programm_DE
+#### programm_DE.py
 include the formula to cipher
