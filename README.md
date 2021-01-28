@@ -1,10 +1,10 @@
 # Cipher
-Small Python program to cipher with a graphical interface using tinker
+Small Python program to cipher with a graphical interface using tkinter
 
 #### interface.py
-include the code for the graphical interface
+Code for the graphical interface (package: tkinter)
 
 ![alt text](https://i.imgur.com/sa6EaKS.png)
 
 #### programm_DE.py
-include the formula to cipher
+Code of the cipher formula
